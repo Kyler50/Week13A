@@ -1,0 +1,6 @@
+c:\users\vas richard roland\documents\visual studio 2015\Projects\CreateClass\CreateClass\bin\Debug\CreateClass.exe.config
+c:\users\vas richard roland\documents\visual studio 2015\Projects\CreateClass\CreateClass\obj\Debug\CreateClass.csprojResolveAssemblyReference.cache
+c:\users\vas richard roland\documents\visual studio 2015\Projects\CreateClass\CreateClass\bin\Debug\CreateClass.exe
+c:\users\vas richard roland\documents\visual studio 2015\Projects\CreateClass\CreateClass\bin\Debug\CreateClass.pdb
+c:\users\vas richard roland\documents\visual studio 2015\Projects\CreateClass\CreateClass\obj\Debug\CreateClass.exe
+c:\users\vas richard roland\documents\visual studio 2015\Projects\CreateClass\CreateClass\obj\Debug\CreateClass.pdb

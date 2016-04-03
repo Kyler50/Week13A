@@ -1,0 +1,6 @@
+c:\users\vas richard roland\documents\visual studio 2015\Projects\SortString\SortString\bin\Debug\SortString.exe.config
+c:\users\vas richard roland\documents\visual studio 2015\Projects\SortString\SortString\bin\Debug\SortString.exe
+c:\users\vas richard roland\documents\visual studio 2015\Projects\SortString\SortString\bin\Debug\SortString.pdb
+c:\users\vas richard roland\documents\visual studio 2015\Projects\SortString\SortString\obj\Debug\SortString.csprojResolveAssemblyReference.cache
+c:\users\vas richard roland\documents\visual studio 2015\Projects\SortString\SortString\obj\Debug\SortString.exe
+c:\users\vas richard roland\documents\visual studio 2015\Projects\SortString\SortString\obj\Debug\SortString.pdb
